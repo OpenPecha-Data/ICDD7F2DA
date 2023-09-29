@@ -1,0 +1,112 @@
+id: 94ec750878904712a6939612f170df19
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  29bdf56e05244e009288f228a6253e63:
+    span:
+      start: 0
+      end: 561
+    imgnum: 1
+    reference: I8LS176890001.tif
+  f359a16b3cbc40538897395221ebc214:
+    span:
+      start: 562
+      end: 595
+    imgnum: 3
+    reference: I8LS176890003.tif
+  3a8db0a381c6485bafab89124fcf806a:
+    span:
+      start: 596
+      end: 1895
+    imgnum: 4
+    reference: I8LS176890004.tif
+  737d9e3d8a3b4aca8d56f8178c98937d:
+    span:
+      start: 1896
+      end: 3233
+    imgnum: 5
+    reference: I8LS176890005.tif
+  e08e7d579bcb45bb80318cb6ea509f6e:
+    span:
+      start: 3234
+      end: 4617
+    imgnum: 6
+    reference: I8LS176890006.tif
+  b49d1bc2c58842a09110efdd7f98e4e5:
+    span:
+      start: 4618
+      end: 6077
+    imgnum: 7
+    reference: I8LS176890007.tif
+  ec159528265740dd91789e202ef0c159:
+    span:
+      start: 6078
+      end: 7239
+    imgnum: 8
+    reference: I8LS176890008.tif
+  45698867ce0742588eeb4b769d1b88d1:
+    span:
+      start: 7240
+      end: 9032
+    imgnum: 9
+    reference: I8LS176890009.tif
+  096f47a928e649f497c2cc8f485081ed:
+    span:
+      start: 9033
+      end: 10594
+    imgnum: 10
+    reference: I8LS176890010.tif
+  d7caa6a5a52340bdb293f0269ae1513a:
+    span:
+      start: 10595
+      end: 12027
+    imgnum: 11
+    reference: I8LS176890011.tif
+  f654e13bb15640749d249199b84d05e9:
+    span:
+      start: 12028
+      end: 13517
+    imgnum: 12
+    reference: I8LS176890012.tif
+  fcf0051389394843a8147814622c0e31:
+    span:
+      start: 13518
+      end: 15061
+    imgnum: 13
+    reference: I8LS176890013.tif
+  a1aebf91e01c41abb158e341f74c9d28:
+    span:
+      start: 15062
+      end: 16612
+    imgnum: 14
+    reference: I8LS176890014.tif
+  e25e83dfb20d41e8a516792a9ea3c60b:
+    span:
+      start: 16613
+      end: 18103
+    imgnum: 15
+    reference: I8LS176890015.tif
+  4ba4ad24ae274b32bafdf8f0f2397e9e:
+    span:
+      start: 18104
+      end: 19658
+    imgnum: 16
+    reference: I8LS176890016.tif
+  d1d6247c69184fedbd4a3ade5d3e19f2:
+    span:
+      start: 19659
+      end: 21167
+    imgnum: 17
+    reference: I8LS176890017.tif
+  b7a53bc9bf384c6393495cd574c36553:
+    span:
+      start: 21168
+      end: 22664
+    imgnum: 18
+    reference: I8LS176890018.tif
+  1c73d79084f34f8eb45ddaa27ccb67ed:
+    span:
+      start: 22665
+      end: 23766
+    imgnum: 19
+    reference: I8LS176890019.tif
